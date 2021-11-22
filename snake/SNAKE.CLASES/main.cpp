@@ -1,10 +1,3 @@
-/*
-Alumnos:
-Albert Yerem Caceres Marca
-Jhon Berly Taype Alccaccahua
-Brian Jesse Bermudez Navarro
-*/
-
 #include <iostream>
 #include<windows.h>
 
