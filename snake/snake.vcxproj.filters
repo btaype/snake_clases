@@ -24,12 +24,30 @@
     <ClCompile Include="cuerpo_snake.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="librerias.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="foot.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="colisiones_2_cuerpos.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cuadro_snake.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
     <ClInclude Include="cuerpo_snake.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="librerias.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="foot.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="colisiones_2_cuerpos.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>

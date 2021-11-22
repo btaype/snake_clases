@@ -139,13 +139,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="colisiones_2_cuerpos.cpp" />
     <ClCompile Include="cuadro_snake.cpp" />
     <ClCompile Include="cuerpo_snake.cpp" />
+    <ClCompile Include="foot.cpp" />
+    <ClCompile Include="librerias.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="colisiones_2_cuerpos.h" />
     <ClInclude Include="cuadro_snake.h" />
     <ClInclude Include="cuerpo_snake.h" />
+    <ClInclude Include="foot.h" />
+    <ClInclude Include="librerias.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
